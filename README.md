@@ -11,3 +11,5 @@ This Repository is to show different parts of the Git repository and various com
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+This is a sample to contribute
